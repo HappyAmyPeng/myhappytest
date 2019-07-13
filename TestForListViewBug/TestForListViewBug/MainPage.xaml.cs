@@ -27,6 +27,8 @@ namespace TestForListViewBug
         public MainPage()
         {
             this.InitializeComponent();
+            int k = 0;
+            int j = 0;
             ListSource = new ObservableCollection<Recording>();
             this.DataContext = this;
             for (int i = 0; i < 10; i++)
