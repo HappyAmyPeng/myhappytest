@@ -1,1 +1,2 @@
+[![Board Status](https://fanghotmailtest.visualstudio.com/b839402a-c44e-44b3-8e59-1b732ee61a7a/b7b6fb33-b919-4f4c-a6ee-3e75f82bee3b/_apis/work/boardbadge/92ab5dfc-9861-4265-9e64-daa81f56d603)](https://fanghotmailtest.visualstudio.com/b839402a-c44e-44b3-8e59-1b732ee61a7a/_boards/board/t/b7b6fb33-b919-4f4c-a6ee-3e75f82bee3b/Microsoft.RequirementCategory)
 # myhappytest
